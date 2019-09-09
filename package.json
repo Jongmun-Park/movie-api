@@ -1,0 +1,12 @@
+{
+  "name": "movie-api",
+  "version": "1.0.0",
+  "description": "made with Graphql",
+  "main": "index.js",
+  "repository": "https://github.com/Jongmun-Park/movie-api.git",
+  "author": "Jongmun-Park <momenttraveler@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
